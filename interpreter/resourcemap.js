@@ -10,7 +10,7 @@ StaticImageInfo = {
 3: {
   "image": 3,
   "url": "interpreter\\pict-3.jpeg",
-  "width": 819,
-  "height": 614
+  "width": 640,
+  "height": 480
 }
 };
